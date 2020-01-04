@@ -1,20 +1,29 @@
-# Test
+# Template
 Información general y [recursos](https://google.com)
 
 **Progreso:**
 
 | Detalle | Completado |
 | ------ | ------ |
-| Componentes | SI |
+| Componentes | NO |
 | Integraciones | NO |
 | Bugs asociados | NO |
-| Historia | SI |
+| Historia | NO |
 
 Tabla de contenidos
-- Integraciones
-- Paso a paso
-- bugs asociados
+- [Integraciones] (#integraciones)
+- [Paso a paso] (#paso-a-paso)
+- [Bugs asociados] (#bugs-asociados)
+- [Historia] (#historia)
 
-## Integraciones
+Integraciones
+-------------
 
-## Flujo
+Paso a paso
+-----------
+
+Bugs asociados
+--------------
+
+Historia
+--------

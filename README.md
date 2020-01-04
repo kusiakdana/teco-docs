@@ -26,7 +26,7 @@ $ git pull origin master
 **Template [aquí.](./template/template.md)**
 
 ### Sintaxis markdown
------
+---------------------
 
 **Insertar imágenes:**
 ```
@@ -54,14 +54,14 @@ Resultado:
 **Regla horizontal:**
 ```
 Párrafo 1
-_______
+_________
 Párrafo 2
 ```
 
 Resultado:
 
 Párrafo 1
-_______
+_________
 
 Párrafo 2
 
