@@ -5,10 +5,10 @@ Información general y [recursos](https://google.com)
 
 | Detalle | Completado |
 | ------ | ------ |
-| Componentes | [x] |
-| Integraciones | [] |
-| Bugs asociados | [ ] |
-| Historia | [x] |
+| Componentes | - [x] |
+| Integraciones | - [] |
+| Bugs asociados | - [] |
+| Historia | - [x] |
 
 Tabla de contenidos
 - Integraciones
