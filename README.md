@@ -31,6 +31,7 @@ $ git push origin master
 ```
 
 ### Sintaxis markdown
+-----
 
 **Insertar imágenes:**
 ```
