@@ -1,3 +1,19 @@
-| Plugin | README |
+### Test
+Información general y [recursos](https://google.com)
+
+**Progreso:**
+| Detalle | Completado |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| Componentes | [x] |
+| Integraciones | [] |
+| Bugs asociados | [ ] |
+| Historia | [x] |
+
+Tabla de contenidos
+- Integraciones
+- Paso a paso
+- bugs asociados
+
+## Integraciones
+
+## Flujo
