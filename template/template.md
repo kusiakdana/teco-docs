@@ -11,10 +11,11 @@ Información general y [recursos](https://google.com)
 | Historia | NO |
 
 Tabla de contenidos
-- [Integraciones] (#integraciones)
-- [Paso a paso] (#paso-a-paso)
-- [Bugs asociados] (#bugs-asociados)
-- [Historia] (#historia)
+
+[Integraciones] (#integraciones)
+[Paso a paso] (#paso-a-paso)
+[Bugs asociados] (#bugs-asociados)
+[Historia] (#historia)
 
 Integraciones
 -------------
