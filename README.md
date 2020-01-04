@@ -1,5 +1,6 @@
 # teco-docs
 
+
 ## Buscar documentación:
 
 * [Funcionalidad 1](../test/test.md)
@@ -71,3 +72,5 @@ Párrafo 2
 Resultado:
 > Lorem ipsum  
 > Dolor sit amet
+
+**Todos los comandos ### [Acá](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)**
