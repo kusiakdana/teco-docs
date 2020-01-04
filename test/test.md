@@ -2,6 +2,7 @@
 Información general y [recursos](https://google.com)
 
 **Progreso:**
+
 | Detalle | Completado |
 | ------ | ------ |
 | Componentes | [x] |
