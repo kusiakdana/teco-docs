@@ -13,7 +13,7 @@ Documentación recopilada sobre los procesos desarrollados en salesforce.
 ## Colaborar:
 * Desde vs code:
 
-```
+```sh
 // Creá un directorio
 $ cd mi-carpeta
 $ git init
@@ -33,7 +33,7 @@ $ git push origin master
 ### Sintaxis markdown
 
 **Insertar imágenes:**
-```
+```markdown
 ![](../test/imagen_1.jpg)
 ```
 
@@ -42,7 +42,7 @@ Resultado:
 
 
 **Títulos:**
-```
+```markdown
 # Título 1
 ## Título 2
 ### Título 3
@@ -55,7 +55,7 @@ Resultado:
 ### Título 3
 
 **Regla horizontal:**
-```
+```markdown
 Párrafo 1
 _______
 Párrafo 2
@@ -69,7 +69,7 @@ _______
 Párrafo 2
 
 **Frases:**
-```
+```markdown
 > Lorem ipsum  
 > Dolor sit amet
 ```
