@@ -38,6 +38,7 @@ $ git push origin master
 ```
 
 Resultado:
+
 ![](./test/imagen_1.jpg)
 
 
