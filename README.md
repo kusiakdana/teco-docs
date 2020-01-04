@@ -34,11 +34,11 @@ $ git push origin master
 
 **Insertar imágenes:**
 ```
-![](../test/imagen_1.jpg)
+![](./test/imagen_1.jpg)
 ```
 
 Resultado:
-![](../test/imagen_1.jpg)
+![](./test/imagen_1.jpg)
 
 
 **Títulos:**
