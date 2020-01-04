@@ -7,40 +7,35 @@ Documentación recopilada sobre los procesos desarrollados en salesforce.
 
 ## Buscar documentación:
 
-* [Funcionalidad 1](../test/test.md)
-* [Funcionalidad 2](../test/test.md)
+* [Funcionalidad 1](./test/test.md)
+* [Funcionalidad 2](./test/test.md)
 
 ## Colaborar:
+
 * Desde vs code:
 
 ```
-// Creá un directorio
+// Creá una carpeta para el repositorio
 $ cd mi-carpeta
 $ git init
 $ git add remote origin https://github.com/dantefilareto/teco-docs.git
 $ git fetch
 $ git pull origin master
-
-// Creá un archivo .md en tu directorio local
-// Utilizá la sintaxis descrita mas abajo
-// Añadí las imagenes necesarias al directorio
-// Desplegá tus cambios al repositorio remoto
-$ git add .
-$ git commit -am "doc funcionalidad etc"
-$ git push origin master
 ```
+
+**Template [aquí.](./template/template.md)**
 
 ### Sintaxis markdown
 -----
 
 **Insertar imágenes:**
 ```
-![](./test/imagen_1.jpg)
+![](./template/sample.jpg)
 ```
 
 Resultado:
 
-![](./test/imagen_1.jpg)
+![](./template/sample.jpg)
 
 
 **Títulos:**
