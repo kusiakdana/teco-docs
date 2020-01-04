@@ -2,13 +2,13 @@
 Documentación recopilada sobre los procesos desarrollados en salesforce.
 
 **Links útiles:**
-* [Funcionalidad 1](./test/test.md)
-* [Funcionalidad 1](./test/test.md)
+* [Funcionalidad 1](./template/template.md)
+* [Funcionalidad 1](./template/template.md)
 
 ## Buscar documentación:
 
-* [Funcionalidad 1](./test/test.md)
-* [Funcionalidad 2](./test/test.md)
+* [Funcionalidad 1](./template/template.md)
+* [Funcionalidad 2](./template/template.md)
 
 ## Colaborar:
 
