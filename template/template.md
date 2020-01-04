@@ -1,5 +1,8 @@
-# Template
+Template
+========
+
 Información general y [recursos](https://google.com)
+
 
 **Progreso:**
 
@@ -10,21 +13,29 @@ Información general y [recursos](https://google.com)
 | Bugs asociados | NO |
 | Historia | NO |
 
-Tabla de contenidos
 
+Tabla de contenidos
+-------------------
 [Integraciones](#integraciones)
+
 [Paso a paso](#paso-a-paso)
+
 [Bugs asociados](#bugs-asociados)
+
 [Historia](#historia)
+
 
 Integraciones
 -------------
 
+
 Paso a paso
 -----------
 
+
 Bugs asociados
 --------------
+
 
 Historia
 --------
