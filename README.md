@@ -2,8 +2,8 @@
 Documentación recopilada sobre los procesos desarrollados en salesforce.
 
 **Links útiles:**
-* [Funcionalidad 1](dantefilareto/teco-docs/blob/master/test/test.md)
-* [Funcionalidad 1](../test/test.md)
+* [Funcionalidad 1](./test/test.md)
+* [Funcionalidad 1](./test/test.md)
 
 ## Buscar documentación:
 
