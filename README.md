@@ -1,5 +1,9 @@
-# teco-docs
+# teco-docs README
+Documentación recopilada sobre los procesos desarrollados en salesforce.
 
+**Links útiles:**
+* [Funcionalidad 1](../test/test.md)
+* [Funcionalidad 1](../test/test.md)
 
 ## Buscar documentación:
 
@@ -53,14 +57,15 @@ Resultado:
 **Regla horizontal:**
 ```
 Párrafo 1
----
+_______
 Párrafo 2
 ```
 
 Resultado:
 
 Párrafo 1
----
+_______
+
 Párrafo 2
 
 **Frases:**
@@ -73,4 +78,4 @@ Resultado:
 > Lorem ipsum  
 > Dolor sit amet
 
-**Todos los comandos ### [Acá](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)**
+**Todos los comandos [Acá](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)**
